@@ -25,5 +25,3 @@
 <a href="https://www.facebook.com/profile.php?id=100007961779469" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mateusferrodasilva" height="20" width="20" /></a>
 <a href="https://instagram.com/mateusferrodasilva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mateusferrodasilva" height="20" width="20" /></a>
 </p>
-
-https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg
